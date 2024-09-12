@@ -7,7 +7,7 @@ function isSameType(value1, value2) {
   }
 
   return false;
-}
+
 }
 
 // do not change the code below.
